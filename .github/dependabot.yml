@@ -12,4 +12,3 @@ updates:
     commit-message:
       prefix: "deps"
     open-pull-requests-limit: 10
-    rebase-strategy: "auto"
